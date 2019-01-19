@@ -1,2 +1,2 @@
 # ISP2-Lernen
-Comparison and visualization of classical machine learning models on a dataset.
+Predictive analysis and data visualization of a dataset on diabetes patient records using various machine learning models. Written with Python, scikit-learn, Seaborn, Keras
