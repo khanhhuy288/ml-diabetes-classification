@@ -1,2 +1,2 @@
-# ISP2-Lernen
+# ML-Diabetes-Classification
 Comparison and visualization of classical machine learning models on a dataset.
